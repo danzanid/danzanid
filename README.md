@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @danzanid
+- 👋 Hi, I’m Devid Ahlun Nazar A.K.A @danzanid
 - 👀 I’m interested in ... software engineering
 - 🌱 I’m currently learning ...fundamental
 - 💞️ I’m looking to collaborate on ...software developement
